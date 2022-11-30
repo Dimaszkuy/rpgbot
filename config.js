@@ -102,9 +102,9 @@ global.wm3 = 'SaD-BoTラ | By Dmss-slebww'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `Sad-BoTラ | ʙʏ ${global.nameown}`
-global.author = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×' 
+global.author = 'Dmss-Slebww' 
 global.packname = 'dmss-Slebww'
-global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬4
+global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬4'
 
 
 /*============== LOGO ==============*/
